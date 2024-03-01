@@ -9,4 +9,4 @@ This repository contains the Go module I created while following the [official G
 To use this module, first, ensure you have Go installed on your system. Then, you can get the module using the go get command:
 
 ```bash
-go get github.com/yourusername/gomoduleexample
+go get github.com/gabeewsuk/gomoduleexample
